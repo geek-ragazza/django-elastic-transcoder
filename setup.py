@@ -17,7 +17,6 @@ setup(
     install_requires=[
         "django >= 1.3, < 1.9",
         "boto3 >= 1.1",
-        "South >= 0.8",
     ],
     classifiers=[
         "Intended Audience :: Developers",
